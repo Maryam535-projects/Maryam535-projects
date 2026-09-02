@@ -1,18 +1,11 @@
 <!--
   GitHub Profile README — Maryam Shuaib (@Maryam535-projects)
-  Repo: Maryam535-projects/Maryam535-projects  ·  File: README.md
-  Note: the contribution snake at the bottom requires .github/workflows/snake.yml
+  Requires: assets/banner.svg and assets/divider.svg committed to this repo.
 -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&height=45&lines=Machine+Learning+Engineer;LLM+%26+RAG+Systems+Developer;Building+AI+that+ships" alt="Maryam Shuaib" />
-
-### Maryam Shuaib
-
-<p>
-<code>AI / ML Engineer</code> &nbsp;•&nbsp; <code>Generative AI</code> &nbsp;•&nbsp; <code>Python</code>
-</p>
+<img src="https://raw.githubusercontent.com/Maryam535-projects/Maryam535-projects/main/assets/banner.svg" width="100%" alt="Maryam Shuaib — Machine Learning Engineer" />
 
 <p>
 <a href="https://www.linkedin.com/in/maryamshuaib535"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=6C63FF" alt="LinkedIn" /></a>
@@ -21,9 +14,9 @@
 <img src="https://komarev.com/ghpvc/?username=Maryam535-projects&style=for-the-badge&color=6C63FF&label=VIEWS" alt="Profile views" />
 </p>
 
-</div>
+<img src="https://raw.githubusercontent.com/Maryam535-projects/Maryam535-projects/main/assets/divider.svg" width="100%" alt="" />
 
----
+</div>
 
 ## `01` &nbsp; About
 
@@ -31,17 +24,14 @@ I build machine learning systems that make it to production — from preprocessi
 
 Currently **Machine Learning Engineer at AIPIXAL**, designing automated ML workflows and intelligent pipelines. Previously built RAG architectures, semantic search, and chatbot systems at **SharkStack**. My background spans both the modeling side and the interface side, which means I ship things people can actually use.
 
-```python
-class MaryamShuaib:
-    role     = "Machine Learning Engineer @ AIPIXAL"
-    location = "Lahore, Pakistan"
-    focus    = ["RAG architectures", "LLM integration",
-                "vector search", "AI automation"]
-    learning = ["agentic workflows", "MLOps", "model deployment"]
-    open_to  = "AI/ML collaboration and open source"
-```
+|  |  |
+| :--- | :--- |
+| **Role** | Machine Learning Engineer @ AIPIXAL |
+| **Focus** | RAG architectures · LLM integration · vector search · AI automation |
+| **Learning** | Agentic workflows · MLOps · model deployment |
+| **Open to** | AI/ML collaboration and open-source contribution |
 
----
+<img src="https://raw.githubusercontent.com/Maryam535-projects/Maryam535-projects/main/assets/divider.svg" width="100%" alt="" />
 
 ## `02` &nbsp; Tech Stack
 
@@ -54,7 +44,7 @@ class MaryamShuaib:
 **Machine Learning & Data**
 
 <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,opencv,anaconda&theme=dark" alt="ML stack" />
-<br />
+<br /><br />
 <img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=6C63FF" />
 <img src="https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=6C63FF" />
 <img src="https://img.shields.io/badge/Jupyter-0D1117?style=flat-square&logo=jupyter&logoColor=6C63FF" />
@@ -77,7 +67,7 @@ class MaryamShuaib:
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/Maryam535-projects/Maryam535-projects/main/assets/divider.svg" width="100%" alt="" />
 
 ## `03` &nbsp; Experience
 
@@ -131,7 +121,7 @@ class MaryamShuaib:
 
 </details>
 
----
+<img src="https://raw.githubusercontent.com/Maryam535-projects/Maryam535-projects/main/assets/divider.svg" width="100%" alt="" />
 
 ## `04` &nbsp; Education
 
@@ -139,32 +129,32 @@ class MaryamShuaib:
 
 <sub>Certifications: Python Programming Mastery · English Language Course</sub>
 
----
+<img src="https://raw.githubusercontent.com/Maryam535-projects/Maryam535-projects/main/assets/divider.svg" width="100%" alt="" />
 
 ## `05` &nbsp; Work
 
 Current projects are pinned below — RAG systems, ML models, and applied Python work.
 Full list at [github.com/Maryam535-projects](https://github.com/Maryam535-projects?tab=repositories).
 
----
+<img src="https://raw.githubusercontent.com/Maryam535-projects/Maryam535-projects/main/assets/divider.svg" width="100%" alt="" />
 
 ## `06` &nbsp; Contribution Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Maryam535-projects&hide_border=true&background=0D111700&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=8B949E&dates=6E7681" alt="Contribution streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Maryam535-projects&hide_border=true&background=0D1117&stroke=30363D&ring=6C63FF&fire=6C63FF&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=6C63FF&sideLabels=8B949E&dates=8B949E" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Maryam535-projects&hide_border=true&background=FFFFFF&stroke=D0D7DE&ring=6C63FF&fire=6C63FF&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=6C63FF&sideLabels=57606A&dates=57606A" />
+  <img src="https://streak-stats.demolab.com?user=Maryam535-projects&hide_border=true&background=0D1117&stroke=30363D&ring=6C63FF&fire=6C63FF&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=6C63FF&sideLabels=8B949E&dates=8B949E" alt="Contribution streak" />
+</picture>
 
 <br /><br />
 
-<img src="https://ghchart.rshah.org/6C63FF/Maryam535-projects" width="90%" alt="Contribution graph" />
-
-<br /><br />
-
-<img src="https://raw.githubusercontent.com/Maryam535-projects/Maryam535-projects/output/snake-dark.svg" alt="Contribution snake" />
+<img src="https://ghchart.rshah.org/6C63FF/Maryam535-projects" width="92%" alt="Contribution heatmap" />
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/Maryam535-projects/Maryam535-projects/main/assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
 
