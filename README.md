@@ -1,11 +1,19 @@
 <!--
   GitHub Profile README — Maryam Shuaib (@Maryam535-projects)
-  Requires: assets/banner.svg and assets/divider.svg committed to this repo.
+  Single file. Paste into README.md at the root of Maryam535-projects/Maryam535-projects
 -->
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Maryam535-projects/Maryam535-projects/main/assets/banner.svg" width="100%" alt="Maryam Shuaib — Machine Learning Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=720&height=48&lines=Machine+Learning+Engineer;LLM+%26+RAG+Systems+Developer;Building+AI+that+ships" alt="Maryam Shuaib" />
+
+# Maryam Shuaib
+
+<p>
+<code>AI / ML Engineer</code> &nbsp;•&nbsp; <code>Generative AI</code> &nbsp;•&nbsp; <code>Python</code>
+<br />
+<sub>Lahore, Pakistan</sub>
+</p>
 
 <p>
 <a href="https://www.linkedin.com/in/maryamshuaib535"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=6C63FF" alt="LinkedIn" /></a>
@@ -14,9 +22,9 @@
 <img src="https://komarev.com/ghpvc/?username=Maryam535-projects&style=for-the-badge&color=6C63FF&label=VIEWS" alt="Profile views" />
 </p>
 
-<img src="https://raw.githubusercontent.com/Maryam535-projects/Maryam535-projects/main/assets/divider.svg" width="100%" alt="" />
-
 </div>
+
+---
 
 ## `01` &nbsp; About
 
@@ -31,7 +39,7 @@ Currently **Machine Learning Engineer at AIPIXAL**, designing automated ML workf
 | **Learning** | Agentic workflows · MLOps · model deployment |
 | **Open to** | AI/ML collaboration and open-source contribution |
 
-<img src="https://raw.githubusercontent.com/Maryam535-projects/Maryam535-projects/main/assets/divider.svg" width="100%" alt="" />
+---
 
 ## `02` &nbsp; Tech Stack
 
@@ -67,7 +75,7 @@ Currently **Machine Learning Engineer at AIPIXAL**, designing automated ML workf
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Maryam535-projects/Maryam535-projects/main/assets/divider.svg" width="100%" alt="" />
+---
 
 ## `03` &nbsp; Experience
 
@@ -121,7 +129,7 @@ Currently **Machine Learning Engineer at AIPIXAL**, designing automated ML workf
 
 </details>
 
-<img src="https://raw.githubusercontent.com/Maryam535-projects/Maryam535-projects/main/assets/divider.svg" width="100%" alt="" />
+---
 
 ## `04` &nbsp; Education
 
@@ -129,14 +137,14 @@ Currently **Machine Learning Engineer at AIPIXAL**, designing automated ML workf
 
 <sub>Certifications: Python Programming Mastery · English Language Course</sub>
 
-<img src="https://raw.githubusercontent.com/Maryam535-projects/Maryam535-projects/main/assets/divider.svg" width="100%" alt="" />
+---
 
 ## `05` &nbsp; Work
 
 Current projects are pinned below — RAG systems, ML models, and applied Python work.
 Full list at [github.com/Maryam535-projects](https://github.com/Maryam535-projects?tab=repositories).
 
-<img src="https://raw.githubusercontent.com/Maryam535-projects/Maryam535-projects/main/assets/divider.svg" width="100%" alt="" />
+---
 
 ## `06` &nbsp; Contribution Activity
 
@@ -154,7 +162,7 @@ Full list at [github.com/Maryam535-projects](https://github.com/Maryam535-projec
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Maryam535-projects/Maryam535-projects/main/assets/divider.svg" width="100%" alt="" />
+---
 
 <div align="center">
 
